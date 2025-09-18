@@ -1,3 +1,8 @@
-.header {
-    background-color: ;
+.banner {
+    background-color: orange;
+}
+
+.hand {
+    width: 20rem;
+    height: auto;
 }
